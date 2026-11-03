@@ -15,6 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/search?q=org:kestra-io+author:knowprasad+is:pr+is:merged&type=pullrequests"><img src="https://img.shields.io/badge/10%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF" alt="10 PRs Merged - Kestra Contributor"></a>
+  <a href="https://github.com/sympy/sympy/pulls?q=is:pr+author:knowprasad+is:merged"><img src="https://img.shields.io/badge/SymPy-5%20PRs%20Merged-3B5526?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy 5 PRs Merged"></a>
 </p>
 
 
@@ -25,7 +26,7 @@
 - 🎓 **IT undergraduate @ ABV IIITM Gwalior** — strong on **Python**, **TypeScript**, scalable APIs & AI product thinking
 - 🧠 **RAG / Generative AI**: **PlateWise 2.0** — a document-intelligence SaaS (upload PDF/DOCX/PPTX → grounded answers) with a **live demo**
 - 🤖 **Agentic AI** with **LangChain + MCP** tool-calling for multi-hop research
-- ⚡ **Open-source contributor** @ [Kestra](https://github.com/kestra-io/kestra) — **10+ merged PRs** across Core, Plugins & Blueprints
+- ⚡ **Open-source contributor** @ [Kestra](https://github.com/kestra-io/kestra) (12 PRs) · [SymPy](https://github.com/sympy/sympy) (5 PRs) · [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-python) · [MetaBrainz](https://github.com/metabrainz/picard)
 - 🐙 Author of **YourTomo** — an open-source **GitHub Action** (TypeScript · Bun); the pixel cat on this very profile
 - 🥇 **Competitive programmer** (C++) — Codeforces
 - 🎯 **Actively open** to SDE / AI internships and full-stack roles
@@ -63,6 +64,7 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 ![RAG (pgvector)](https://img.shields.io/badge/RAG_(pgvector)-A855F7?style=flat-square&logoColor=white)
 ![sentence-transformers](https://img.shields.io/badge/sentence--transformers-6366F1?style=flat-square&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white)
 
 **Backend**
 
@@ -105,6 +107,7 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![httpx](https://img.shields.io/badge/httpx-FC7018?style=flat-square&logoColor=white)
 ![Kestra](https://img.shields.io/badge/Kestra-8405FF?style=flat-square&logo=kestra&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-4053D6?style=flat-square&logo=opentelemetry&logoColor=white)
 
 </div>
 
@@ -116,6 +119,23 @@
 | **YourTomo** | Open-source **GitHub Action** — a pixel cat on your profile that reacts to real activity (TypeScript · Bun) | TypeScript · Bun · GitHub Actions | [Repo](https://github.com/knowprasad/YourTomo) |
 | **Blood Donation** | Real-time MERN platform connecting blood banks, donors & patients — role-based dashboards, **Socket.IO** live updates | Express · MongoDB · React · Socket.IO · JWT | [Repo](https://github.com/knowprasad/blooddonation) |
 | **First_Agentic_AI** | **Agentic AI** research agent — **LangChain** + **Gemini** tool-calling with live web search for multi-hop questions | Python · LangChain · Gemini API | [Repo](https://github.com/knowprasad/First_Agentic_AI) |
+
+
+<img src="https://img.shields.io/badge/-Open_Source_Highlights-6d28d9?style=flat-square&logoColor=white" height="30"/>
+
+<p align="center">
+  <a href="https://github.com/search?q=org:kestra-io+author:knowprasad+is:pr+is:merged&type=pullrequests"><img src="https://img.shields.io/badge/10%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF" alt="Kestra 10 PRs Merged"></a>
+  <a href="https://github.com/sympy/sympy/pulls?q=is:pr+author:knowprasad+is:merged"><img src="https://img.shields.io/badge/SymPy-5%20PRs%20Merged-3B5526?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy 5 PRs Merged"></a>
+  <a href="https://github.com/open-telemetry/opentelemetry-python/pulls?q=is:pr+author:knowprasad+is:merged"><img src="https://img.shields.io/badge/OpenTelemetry-Merged-4053D6?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry Merged"></a>
+  <a href="https://github.com/metabrainz/picard/pulls?q=is:pr+author:knowprasad+is:merged"><img src="https://img.shields.io/badge/MetaBrainz-Merged-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=white" alt="MetaBrainz Merged"></a>
+</p>
+
+| Organization / Project | Domain & Focus | Merged PRs | Highlights |
+|---|---|:---:|---|
+| **[Kestra](https://github.com/kestra-io)** | Event-driven orchestration, distributed execution, cloud & database sentinels | **12** | Core migration test suite ([#61](https://github.com/kestra-io/kestra2-flow-migration/pull/61)), AWS SQS consume fix ([#860](https://github.com/kestra-io/plugin-aws/pull/860)), NATS KV conditional revision ([#193](https://github.com/kestra-io/plugin-nats/pull/193)), and 8 production sentinel blueprints (ClickHouse, MySQL, PostgreSQL, Sentry, Cloudflare R2, Neon, Supabase) |
+| **[SymPy](https://github.com/sympy/sympy)** | Core scientific Python library for symbolic mathematics & computer algebra | **5** | Solvers non-finite factor rejection ([#30775](https://github.com/sympy/sympy/pull/30775)), 3D Geometry plane-distance formulas ([#30827](https://github.com/sympy/sympy/pull/30827), [#30779](https://github.com/sympy/sympy/pull/30779)), Moore-Penrose pseudoinverse vector rank decomposition ([#30780](https://github.com/sympy/sympy/pull/30780)), and complex assumptions logic ([#30808](https://github.com/sympy/sympy/pull/30808)) |
+| **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry-python)** | CNCF industry standard observability & distributed tracing framework | **1** | Prometheus exporter unit annotation stripping regex fix ([#5798](https://github.com/open-telemetry/opentelemetry-python/pull/5798)) |
+| **[MetaBrainz Picard](https://github.com/metabrainz/picard)** | Cross-platform audio tagging application and MusicBrainz metadata platform | **2** | Setup wizard UI checkbox text truncation fix ([#3536](https://github.com/metabrainz/picard/pull/3536)) and ISRC normalization support ([#3532](https://github.com/metabrainz/picard/pull/3532)) |
 
 <img src="https://img.shields.io/badge/-By_the_Numbers-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
