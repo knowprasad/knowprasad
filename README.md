@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kestra.io/community?from=github-badge"><img src="https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF" alt="Kestra Contributor"></a>
+  <a href="https://github.com/search?q=org:kestra-io+author:knowprasad+is:pr+is:merged&type=pullrequests"><img src="https://img.shields.io/badge/10%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF" alt="10 PRs Merged - Kestra Contributor"></a>
 </p>
 
 
@@ -25,7 +25,7 @@
 - 🎓 **IT undergraduate @ ABV IIITM Gwalior** — strong on **Python**, **TypeScript**, scalable APIs & AI product thinking
 - 🧠 **RAG / Generative AI**: **PlateWise 2.0** — a document-intelligence SaaS (upload PDF/DOCX/PPTX → grounded answers) with a **live demo**
 - 🤖 **Agentic AI** with **LangChain + MCP** tool-calling for multi-hop research
-- ⚡ **Open-source contributor** @ [Kestra](https://github.com/kestra-io/kestra) (Core, Plugins & Blueprints)
+- ⚡ **Open-source contributor** @ [Kestra](https://github.com/kestra-io/kestra) — **10+ merged PRs** across Core, Plugins & Blueprints
 - 🐙 Author of **YourTomo** — an open-source **GitHub Action** (TypeScript · Bun); the pixel cat on this very profile
 - 🥇 **Competitive programmer** (C++) — Codeforces
 - 🎯 **Actively open** to SDE / AI internships and full-stack roles
