@@ -13,6 +13,11 @@
   <a href="https://github.com/knowprasad"><img src="https://komarev.com/ghpvc/?username=knowprasad&style=for-the-badge&color=6A5AF9" alt="Profile views"></a>
 </p>
 
+<p align="center">
+  <a href="https://kestra.io/community?from=github-badge"><img src="https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF" alt="Kestra Contributor"></a>
+</p>
+
+
 <img src="https://img.shields.io/badge/-About_Me-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
 > **AI & Full-Stack Engineer** — building production **LLM / RAG** apps and full-stack SaaS, and shipping them.
@@ -20,6 +25,7 @@
 - 🎓 **IT undergraduate @ ABV IIITM Gwalior** — strong on **Python**, **TypeScript**, scalable APIs & AI product thinking
 - 🧠 **RAG / Generative AI**: **PlateWise 2.0** — a document-intelligence SaaS (upload PDF/DOCX/PPTX → grounded answers) with a **live demo**
 - 🤖 **Agentic AI** with **LangChain + MCP** tool-calling for multi-hop research
+- ⚡ **Open-source contributor** @ [Kestra](https://github.com/kestra-io/kestra) (Core, Plugins & Blueprints)
 - 🐙 Author of **YourTomo** — an open-source **GitHub Action** (TypeScript · Bun); the pixel cat on this very profile
 - 🥇 **Competitive programmer** (C++) — Codeforces
 - 🎯 **Actively open** to SDE / AI internships and full-stack roles
@@ -98,6 +104,7 @@
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![httpx](https://img.shields.io/badge/httpx-FC7018?style=flat-square&logoColor=white)
+![Kestra](https://img.shields.io/badge/Kestra-8405FF?style=flat-square&logo=kestra&logoColor=white)
 
 </div>
 
